@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("Please input a line:");
             s = Console.ReadLine();
             Console.WriteLine("You have entered:{0}", s);
+            Console.WriteLine("");
         }
     }
 }
